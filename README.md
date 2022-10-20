@@ -1,6 +1,6 @@
 # FireBaseAuthentication
 
-for this project using [springboot],[Angular],[MongoDB], and [Firebase]
+For this Project using [springboot](https://spring.io/projects/spring-framework), [Angular](https://github.com/angular/angular-cli), [MongoDB](https://account.mongodb.com/account/login), [Firebase](https://console.firebase.google.com/), [AWS](https://aws.amazon.com/), and [PUTTY](https://www.putty.org/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
