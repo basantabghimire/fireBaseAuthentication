@@ -1,0 +1,9 @@
+.cr-wrapper{
+    margin-top: 20%;
+    background-color: rgba(226, 225, 236, 0.295);;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+    border: 2px solid silver;
+}

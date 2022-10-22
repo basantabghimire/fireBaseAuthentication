@@ -1,0 +1,31 @@
+.container{
+    margin-top: 5%;
+    width: 600px;
+    background-color:rgba(226, 225, 236, 0.295);
+    border: 5px solid silver;
+    border-radius: 10px;
+}
+.form-floating{
+    width: 550px;
+    align-items: center;
+    padding: 1px;
+    margin: 10px;
+}
+
+label{
+    margin-top: 2%;
+    padding: 1px;
+    clear:right;
+    text-align:left;
+    color: blue
+}
+.button{
+    padding: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.logo{
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;  
+}
